@@ -1,0 +1,22 @@
+{
+  "name": "storynory-web",
+  "version": "1.0.0",
+  "description": "built in 11ty - amp first",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storynory/story.git"
+  },
+  "author": "Bertie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storynory/story/issues"
+  },
+  "homepage": "https://github.com/storynory/story#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
